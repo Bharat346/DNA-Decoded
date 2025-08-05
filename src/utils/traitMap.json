@@ -1,0 +1,128 @@
+{
+  "rs2187668": {
+    "trait": "Celiac Disease",
+    "gene": "HLA-DQ2",
+    "variant": "T/T",
+    "description": "High risk for celiac disease (gluten intolerance)",
+    "risk": "High"
+  },
+  "rs602662": {
+    "trait": "Lactose Tolerance",
+    "gene": "MCM6",
+    "variant": "C/T",
+    "description": "Lactase persistence (likely tolerant to dairy products)",
+    "risk": "Low"
+  },
+  "rs4988235": {
+    "trait": "Lactose Tolerance",
+    "gene": "MCM6",
+    "variant": "A/A",
+    "description": "Very tolerant to dairy due to lactase persistence",
+    "risk": "Low"
+  },
+  "rs1229984": {
+    "trait": "Alcohol Tolerance",
+    "gene": "ADH1B",
+    "variant": "A/G",
+    "description": "Average alcohol metabolism; moderate flushing",
+    "risk": "Moderate"
+  },
+  "rs671": {
+    "trait": "Alcohol Tolerance",
+    "gene": "ALDH2",
+    "variant": "G/A",
+    "description": "Low alcohol tolerance; flushing and nausea likely",
+    "risk": "High"
+  },
+  "rs7903146": {
+    "trait": "Type 2 Diabetes",
+    "gene": "TCF7L2",
+    "variant": "T/T",
+    "description": "High risk of type 2 diabetes due to impaired insulin secretion",
+    "risk": "High"
+  },
+  "rs7754840": {
+    "trait": "Type 2 Diabetes",
+    "gene": "CDKAL1",
+    "variant": "G/G",
+    "description": "Increased risk of insulin resistance and T2D",
+    "risk": "Moderate"
+  },
+  "rs1333049": {
+    "trait": "Heart Disease",
+    "gene": "9p21",
+    "variant": "C/G",
+    "description": "Increased risk of coronary artery disease",
+    "risk": "High"
+  },
+  "rs1801133": {
+    "trait": "Folate Deficiency (linked to heart disease)",
+    "gene": "MTHFR",
+    "variant": "T/T",
+    "description": "Low folate processing, linked with heart disease risk",
+    "risk": "Moderate"
+  },
+  "rs9939609": {
+    "trait": "Obesity",
+    "gene": "FTO",
+    "variant": "A/A",
+    "description": "Higher risk of obesity; affects appetite control",
+    "risk": "High"
+  },
+  "rs1121980": {
+    "trait": "Obesity",
+    "gene": "FTO",
+    "variant": "T/T",
+    "description": "Slightly increased BMI and obesity risk",
+    "risk": "Low"
+  },
+  "rs121913529": {
+    "trait": "Breast Cancer Risk",
+    "gene": "BRCA1",
+    "variant": "T/T",
+    "description": "Pathogenic BRCA1 variant; significantly increased breast cancer risk",
+    "risk": "Very High"
+  },
+  "rs80359013": {
+    "trait": "Breast Cancer Risk",
+    "gene": "BRCA2",
+    "variant": "G/A",
+    "description": "Moderate to high risk variant in BRCA2 gene",
+    "risk": "High"
+  },
+  "rs2981582": {
+    "trait": "Breast Cancer Risk",
+    "gene": "FGFR2",
+    "variant": "T/T",
+    "description": "Slightly increased risk of breast cancer",
+    "risk": "Moderate"
+  },
+  "rs800292": {
+    "trait": "Eye Disease (Macular Degeneration)",
+    "gene": "CFH",
+    "variant": "A/A",
+    "description": "High risk of age-related macular degeneration (AMD)",
+    "risk": "High"
+  },
+  "rs10490924": {
+    "trait": "Eye Disease (Macular Degeneration)",
+    "gene": "ARMS2",
+    "variant": "T/T",
+    "description": "Strong association with severe macular degeneration",
+    "risk": "Very High"
+  },
+  "rs1800925": {
+    "trait": "Allergy Risk",
+    "gene": "IL13",
+    "variant": "T/T",
+    "description": "Increased risk of allergic asthma and other allergies",
+    "risk": "Moderate"
+  },
+  "rs20541": {
+    "trait": "Allergy Risk",
+    "gene": "IL4",
+    "variant": "C/C",
+    "description": "Likely predisposition to eczema, asthma, and allergies",
+    "risk": "Moderate"
+  }
+}

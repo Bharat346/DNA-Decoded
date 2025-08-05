@@ -1,0 +1,218 @@
+{
+  "rs12913832": {
+    "trait": "Eye Color",
+    "gene": "HERC2",
+    "variant": {
+      "AA": {
+        "description": "Very likely to have blue eyes",
+        "effect": "High likelihood of light eye color"
+      },
+      "AG": {
+        "description": "Likely to have green/hazel eyes",
+        "effect": "Moderate likelihood of light eye color"
+      },
+      "GG": {
+        "description": "Very likely to have brown eyes",
+        "effect": "High likelihood of dark eye color"
+      }
+    }
+  },
+  "rs1800407": {
+    "trait": "Eye Color",
+    "gene": "OCA2",
+    "variant": {
+      "CC": {
+        "description": "Typical brown eye influence",
+        "effect": "Normal melanin production"
+      },
+      "CT": {
+        "description": "Slightly lighter eye color possible",
+        "effect": "Reduced melanin production"
+      },
+      "TT": {
+        "description": "Lighter eye color likely",
+        "effect": "Significantly reduced melanin"
+      }
+    }
+  },
+  "rs1393350": {
+    "trait": "Eye Color",
+    "gene": "TYR",
+    "variant": {
+      "GG": {
+        "description": "Normal eye color variation",
+        "effect": "Standard melanin synthesis"
+      },
+      "GA": {
+        "description": "Slightly lighter eye color possible",
+        "effect": "Reduced melanin synthesis"
+      },
+      "AA": {
+        "description": "Lighter eye color likely",
+        "effect": "Significantly reduced melanin"
+      }
+    }
+  },
+  "rs12896399": {
+    "trait": "Eye Color",
+    "gene": "SLC24A4",
+    "variant": {
+      "GG": {
+        "description": "Normal eye color variation",
+        "effect": "Standard pigmentation"
+      },
+      "GT": {
+        "description": "Slightly lighter eye color possible",
+        "effect": "Reduced pigmentation"
+      },
+      "TT": {
+        "description": "Lighter eye color likely",
+        "effect": "Significantly reduced pigmentation"
+      }
+    }
+  },
+  "rs16891982": {
+    "trait": "Eye Color",
+    "gene": "SLC45A2",
+    "variant": {
+      "CC": {
+        "description": "Normal eye color variation",
+        "effect": "Standard pigmentation"
+      },
+      "CG": {
+        "description": "Slightly lighter eye color possible",
+        "effect": "Reduced pigmentation"
+      },
+      "GG": {
+        "description": "Lighter eye color likely",
+        "effect": "Significantly reduced pigmentation"
+      }
+    }
+  },
+  "rs1805007": {
+    "trait": "Hair Color",
+    "gene": "MC1R",
+    "variant": {
+      "CC": {
+        "description": "Normal hair color",
+        "effect": "Standard eumelanin production"
+      },
+      "CT": {
+        "description": "Possible red hair influence",
+        "effect": "Reduced eumelanin, increased pheomelanin"
+      },
+      "TT": {
+        "description": "Strong red hair influence",
+        "effect": "Significantly reduced eumelanin"
+      }
+    }
+  },
+  "rs1805008": {
+    "trait": "Hair Color",
+    "gene": "MC1R",
+    "variant": {
+      "GG": {
+        "description": "Normal hair color",
+        "effect": "Standard eumelanin production"
+      },
+      "GT": {
+        "description": "Possible red hair influence",
+        "effect": "Reduced eumelanin, increased pheomelanin"
+      },
+      "TT": {
+        "description": "Strong red hair influence",
+        "effect": "Significantly reduced eumelanin"
+      }
+    }
+  },
+  "rs12821256": {
+    "trait": "Hair Color",
+    "gene": "KITLG",
+    "variant": {
+      "CC": {
+        "description": "Normal hair color variation",
+        "effect": "Standard pigmentation"
+      },
+      "CT": {
+        "description": "Slightly lighter hair possible",
+        "effect": "Reduced pigmentation"
+      },
+      "TT": {
+        "description": "Lighter hair likely",
+        "effect": "Significantly reduced pigmentation"
+      }
+    }
+  },
+  "rs12203592": {
+    "trait": "Hair Color",
+    "gene": "IRF4",
+    "variant": {
+      "CC": {
+        "description": "Normal hair color variation",
+        "effect": "Standard pigmentation"
+      },
+      "CT": {
+        "description": "Slightly lighter hair possible",
+        "effect": "Reduced pigmentation"
+      },
+      "TT": {
+        "description": "Lighter hair likely",
+        "effect": "Significantly reduced pigmentation"
+      }
+    }
+  },
+  "rs1426654": {
+    "trait": "Hair Color",
+    "gene": "SLC24A5",
+    "variant": {
+      "GG": {
+        "description": "Normal hair color variation",
+        "effect": "Standard pigmentation"
+      },
+      "GA": {
+        "description": "Slightly lighter hair possible",
+        "effect": "Reduced pigmentation"
+      },
+      "AA": {
+        "description": "Lighter hair likely",
+        "effect": "Significantly reduced pigmentation"
+      }
+    }
+  },
+  "rs10427255": {
+    "trait": "Height",
+    "gene": "HMGA2",
+    "variant": {
+      "CC": {
+        "description": "Average height influence",
+        "effect": "Standard height potential"
+      },
+      "CT": {
+        "description": "Slightly taller possible",
+        "effect": "Increased height potential (~0.5cm)"
+      },
+      "TT": {
+        "description": "Taller likely",
+        "effect": "Increased height potential (~1cm)"
+      }
+    }
+  },
+  "rs4988235": {
+    "trait": "Lactose Tolerance",
+    "gene": "MCM6",
+    "variant": {
+      "TT": {
+        "description": "Lactose intolerant likely",
+        "effect": "Lactase non-persistence"
+      },
+      "TC": {
+        "description": "Partial lactose tolerance",
+        "effect": "Reduced lactase persistence"
+      },
+      "CC": {
+        "description": "Lactose tolerant likely",
+        "effect": "Lactase persistence"
+      }
+    }
+  }
+}
